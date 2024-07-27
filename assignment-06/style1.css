@@ -1,0 +1,211 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: antiquewhite;
+}
+.box1{
+    display: flex;
+  
+    height: 230px ;
+    justify-content:center ;
+
+}
+#color1{
+
+    background-color: red;
+    height: 222px;
+    width: 291px;
+    
+  
+    margin-top: 50px;
+}
+#color2{
+
+    background-color: rgb(25, 158, 54);
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color3{
+    background-color: rgb(154, 25, 158);
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color4{
+    background-color: rgb(134, 158, 25);
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color5{
+
+    background-color: rgb(27, 9, 185);
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+.box2{  
+    display: flex;
+    
+    height: 240px ;
+    justify-content: center;
+}
+#color6{
+
+    background-color: cadetblue;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+   
+#color7{
+
+    background-color:cornflowerblue;
+    height: 222px;
+
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color8{
+
+    background-color: darkorchid;
+    height: 222px;
+    
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color9{
+
+    background-color: maroon;
+    height: 222px;
+   
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color10{
+
+    background-color: forestgreen;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box3{
+    display: flex;
+    
+    height: 250px ;
+    justify-content: center;
+}
+#color11{
+    background-color: aquamarine;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color12{
+    background-color: palevioletred;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color13{
+    background-color:palegoldenrod;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color14{
+    background-color: powderblue;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color15{
+    background-color:black;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.box4{
+
+    display: flex;
+    
+    height: 250px ;
+    justify-content: center;
+}
+
+
+
+#color16{
+    background-color:cadetblue;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color17{
+    background-color: chartreuse;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color18{
+    background-color: crimson;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color19{
+    background-color: rgb(129, 106, 14);
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#color20{
+    background-color: cyan;
+    height: 222px;
+    width: 291px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
